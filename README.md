@@ -49,7 +49,7 @@ class SoftwareEngineer {
         backend: [
             'NodeJS',
             'Express',
-            "NextJS"
+            'NextJS'
         ],
         mobile: [
             'React Native',
