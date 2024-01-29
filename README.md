@@ -8,7 +8,6 @@
   <code><img height="30" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
   <code><img height="30" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img height="30" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></code>
-  <code><img height="30" alt="vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
   <code><img height="30" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
   <code><img height="30" alt="sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
   <code><img height="30" alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
@@ -37,7 +36,6 @@ class SoftwareEngineer {
         frontend: [
             'ReactJS',
             "NextJS",
-            "VueJS",
             "GraphQL",
             'Redux',
             'RTK',
