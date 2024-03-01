@@ -56,7 +56,8 @@ class SoftwareEngineer {
         UILibrary: [
             'MUI',
             'AntDesign',
-            'NativeBase'
+            'NativeBase',
+            'Mantine'
         ],
         dataBase: [
             'PostgreSQL',
