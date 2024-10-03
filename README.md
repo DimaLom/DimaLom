@@ -67,6 +67,7 @@ class SoftwareEngineer {
             'git',
             'Docker',
             'Webpack',
+            'Vite',
             'Figma'
         ]
     }
