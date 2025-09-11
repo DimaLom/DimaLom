@@ -13,6 +13,7 @@
   <code><img height="30" alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
   <code><img height="30" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img height="30" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+  <code><img height="30" alt="nestjs" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"></code>
   <code><img height="30" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
   <code><img height="30" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img height="30" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
@@ -34,8 +35,8 @@ class SoftwareEngineer {
             'TypeScript'
         ],
         frontend: [
-            'ReactJS',
-            "NextJS",
+            'React.js',
+            "Next.js",
             "GraphQL",
             'Redux',
             'RTK',
@@ -45,9 +46,10 @@ class SoftwareEngineer {
             'Sass'
         ],
         backend: [
-            'NodeJS',
+            'Node.js',
             'Express',
-            'NextJS'
+            'Next.js',
+            'Nest.js'
         ],
         mobile: [
             'React Native',
